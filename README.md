@@ -59,7 +59,7 @@ yarn build:linux
 
 📚📚本项目有详细的讲解教程，原文请关注我的微信公众号【卧梅又闻花】📚📚
 
-查阅本项目完整教程：[《2023金秋版：基于electron-vite构建Vue桌面客户端》](https://mp.weixin.qq.com/s/kUGPx5Uo2l54RRTCFY1OxA)
+查阅本项目完整教程：[《2023金秋版：基于electron-vite构建Vue桌面客户端》](https://mp.weixin.qq.com/s/7EMjVSZAEyz6dmrO5Vs8YA)
 
 ### 教程目录
 
